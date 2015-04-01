@@ -5,7 +5,7 @@ This tutorial presents ansible step-by-step. You'll need to have a (virtual or
 physical) machine to act as an ansible node. A vagrant environment is provided for 
 going through this tutorial.
 
-Ansible is a configuration management software that let's you control and
+Ansible is a configuration management software that lets you control and
 configure nodes from  another machine. What makes it different from other
 management software is that ansible  uses (potentially existing) SSH
 infrastructure, while others (chef, puppet, ...) need a specific PKI
@@ -13,7 +13,7 @@ infrastructure to be set-up.
 
 Ansible also emphasises push mode, where configuration is pushed from a master
 machine (a master machine is only a machine where you can SSH to nodes from) to
-nodes, while most other CM typically do it the other way around (nodes pull
+nodes, while most other CMs typically do it the other way around (nodes pull
 their config at times from a master machine).
 
 This mode is really interesting since you do not need to have a 'publicly'
