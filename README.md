@@ -50,7 +50,7 @@ At this point, we can load the ansible environment:
 ## From a deb package
 
 When running from an installed package, this is absolutely not necessary. If
-you prefer running from a debian package ansible, provides a `make target` to
+you prefer running from a debian package, ansible provides a `make target` to
 build it. You need a few packages to build the deb:
 
     sudo apt-get install make fakeroot cdbs python-support
