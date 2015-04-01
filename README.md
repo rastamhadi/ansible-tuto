@@ -123,17 +123,17 @@ Thanks to all people who have contributed to this tutorial:
 * [Ruud Kamphuis](https://github.com/ruudk)
 * [Victor Boivie](https://github.com/boivie)
 
-I've been using Ansible almost since it's birth, but I learned a lot in
+I've been using Ansible almost since its birth, but I learned a lot in
 the process of writing it. If you want to jump in, it's a great way to
 learn, feel free to add your contributions.
 
-The chapters being written live in the
+The chapters are being written live in the
 [writing](https://github.com/leucos/ansible-tuto/tree/writing) branch.
 
 If you have ideas on topics that would require a chapter, please open a
 PR.
 
-I'm also open on pairing for writing chapters. Drop me a note if you're
+I'm also open to pairing for writing chapters. Drop me a note if you're
 interested.
 
 If you make changes or add chapters, please fill the `test/expectations`
