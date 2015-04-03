@@ -41,7 +41,7 @@ Then destroy Vagrant machines, restart NetworkManager and try again.
 
 # Adding your SSH keys on the virtual machines
 
-To follow this tutorial, you'll need to have your keys in VMs root's `authorized_keys`. 
+To follow this tutorial, you'll need to have your keys in VM's root's `authorized_keys`. 
 While this is not absolutely necessary (Ansible can use sudo, password authentication, 
 etc...), it will make things way easier.
 
